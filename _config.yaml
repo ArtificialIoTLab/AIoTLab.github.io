@@ -7,12 +7,12 @@ footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@ArtificialIoTLab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: ArtificialIoTLab
-  twitter: ArtificialIoTLab
-  youtube: ArtificialIoTLab
+  email: ArtificialIoT@outlook.com
+  orcid: None
+  google-scholar: None
+  github: https://github.com/ArtificialIoTLab
+  twitter: None
+  youtube: None
 
 ### jekyll settings
 
